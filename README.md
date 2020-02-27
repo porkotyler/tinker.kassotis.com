@@ -1,3 +1,5 @@
+![](https://i.imgur.com/fqkK07B.png)
+
 # Tinker Kass
 This is an online toy store that sells Target items related to movies and TV shows.
 
